@@ -1,0 +1,34 @@
+\select@language {french}
+\contentsline {xpart}{Domaine d'\'etude et \'etat de l'art}{3}{part.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Tables interactives et Migration d'UI}{3}{chapter.1}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces R\'epartition des domaines d'utilisation des tables interactives en 2011\relax }}{21}{figure.caption.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Fen\^{e}tre principale de l'application CBA\relax }}{22}{figure.caption.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Migration de la structure d'une UI Desktop sur une table interactive\relax }}{22}{figure.caption.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces b}}{23}{figure.caption.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Table interactive DiamondTouch\relax }}{23}{figure.caption.6}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Instanciation physique des \'el\'ements GUI dans TUI\relax }}{23}{figure.caption.8}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Instances des container DiamondSpin\relax }}{24}{figure.caption.12}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Exemple de ScatterView\relax }}{24}{figure.caption.14}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Illustration de partage d'espace entre plusieurs utilisateurs\relax }}{24}{figure.caption.18}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Illustration de la propri\'et\'e 360\IeC {\degres }\relax }}{25}{figure.caption.19}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Liens entre les guidelines de migration d'une UI vers les tables interactives\relax }}{26}{figure.caption.23}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Composants du mod\`ele ARCH\relax }}{27}{figure.caption.24}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Mod\`ele Vue Contr\^oleur\relax }}{27}{figure.caption.28}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Mod\`ele d'interactions abstraites de Gellersen\relax }}{28}{figure.caption.29}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Approches de migration d'UI}{29}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Application de consultation des contacts \relax }}{32}{figure.caption.30}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Processus de migration avec MORPH\relax }}{36}{figure.caption.38}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Exemple de transformation USIXML\relax }}{40}{figure.caption.45}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Service de migration d'UI\relax }}{42}{figure.caption.46}
+\contentsline {xpart}{Contributions}{49}{part.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Mod\'elisation des interactions abstraites }{49}{chapter.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Prise en compte des guidelines }{51}{chapter.4}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Prototype}{53}{chapter.5}
+\contentsline {xpart}{Conclusion et Perspectives}{57}{part.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion}{57}{chapter.6}

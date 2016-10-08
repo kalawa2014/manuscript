@@ -1,0 +1,212 @@
+\relax 
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand*\HyPL@Entry[1]{}
+\catcode`:\active
+\catcode`;\active
+\catcode`!\active
+\catcode`?\active
+\bibstyle{alpha}
+\HyPL@Entry{0<</P(1)>>}
+\@writefile{toc}{\beamer@endinputifotherversion {3.23pt}}
+\@writefile{nav}{\beamer@endinputifotherversion {3.23pt}}
+\select@language{french}
+\@writefile{toc}{\select@language{french}}
+\@writefile{lof}{\select@language{french}}
+\@writefile{lot}{\select@language{french}}
+\@writefile{nav}{\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {1}{1}}}
+\HyPL@Entry{1<</P(2)>>}
+\@writefile{nav}{\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {2}{2}}}
+\HyPL@Entry{2<</P(3)>>}
+\@writefile{toc}{\beamer@sectionintoc {1}{Motivations}{3}{0}{1}}
+\@writefile{nav}{\headcommand {\sectionentry {1}{Motivations}{3}{Motivations}{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {1}{2}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {1}{2}}}
+\@writefile{nav}{\headcommand {\slideentry {1}{0}{3}{3/4}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {3}{4}}}
+\HyPL@Entry{4<</P(4)>>}
+\@writefile{nav}{\headcommand {\slideentry {1}{0}{4}{5/6}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {5}{6}}}
+\citation{TanenbaumS.1978}
+\citation{Kassoff2003}
+\HyPL@Entry{6<</P(5)>>}
+\citation{TanenbaumS.1978}
+\citation{Kassoff2003}
+\citation{TanenbaumS.1978}
+\citation{Kassoff2003}
+\citation{TanenbaumS.1978}
+\citation{Kassoff2003}
+\@writefile{nav}{\headcommand {\slideentry {1}{0}{5}{7/10}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {7}{10}}}
+\HyPL@Entry{10<</P(6)>>}
+\@writefile{nav}{\headcommand {\slideentry {1}{0}{6}{11/11}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {11}{11}}}
+\citation{MitsubishiElectricResearchLaboratoriesb}
+\citation{Ullmer1997}
+\citation{Microsoft2011}
+\HyPL@Entry{11<</P(7)>>}
+\@writefile{toc}{\beamer@sectionintoc {2}{Domaine d'\IeC {\'e}tude }{12}{0}{2}}
+\@writefile{nav}{\headcommand {\sectionentry {2}{Domaine d'\IeC {\'e}tude }{12}{Domaine d'\IeC {\'e}tude }{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {3}{11}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {3}{11}}}
+\citation{Microsoft2011}
+\citation{MitsubishiElectricResearchLaboratoriesb}
+\citation{Ullmer1997}
+\citation{Microsoft2011}
+\@writefile{nav}{\headcommand {\slideentry {2}{0}{7}{12/13}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {12}{13}}}
+\citation{Vanderdonckt1997}
+\HyPL@Entry{13<</P(8)>>}
+\@writefile{toc}{\beamer@sectionintoc {3}{\IeC {\'E}tat de l'art des approches de migration}{14}{0}{3}}
+\@writefile{nav}{\headcommand {\sectionentry {3}{\IeC {\'E}tat de l'art}{14}{\IeC {\'E}tat de l'art des approches de migration}{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {12}{13}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {12}{13}}}
+\citation{Vanderdonckt1997}
+\citation{Vanderdonckt1997}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{8}{14/16}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {14}{16}}}
+\citation{Wang2008}
+\HyPL@Entry{16<</P(9)>>}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{9}{17/17}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {17}{17}}}
+\citation{Besacier2010}
+\HyPL@Entry{17<</P(10)>>}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{10}{18/18}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {18}{18}}}
+\citation{Calvary2002}
+\citation{Paterno'2009}
+\HyPL@Entry{18<</P(11)>>}
+\citation{Calvary2002}
+\citation{Paterno'2009}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{11}{19/20}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {19}{20}}}
+\citation{Moore1997}
+\HyPL@Entry{20<</P(12)>>}
+\citation{Moore1997}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{12}{21/22}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {21}{22}}}
+\HyPL@Entry{22<</P(13)>>}
+\newlabel{fig:syntheseapproches}{{3}{23}{État de l'art\relax }{Doc-Start}{}}
+\@writefile{snm}{\beamer@slide {fig:syntheseapproches}{23}}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{13}{23/23}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {23}{23}}}
+\HyPL@Entry{23<</P(14)>>}
+\@writefile{nav}{\headcommand {\slideentry {3}{0}{14}{24/25}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {24}{25}}}
+\HyPL@Entry{25<</P(15)>>}
+\@writefile{toc}{\beamer@sectionintoc {4}{Mod\IeC {\'e}lisations}{26}{0}{4}}
+\@writefile{nav}{\headcommand {\sectionentry {4}{Mod\IeC {\'e}lisations}{26}{Mod\IeC {\'e}lisations}{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {14}{25}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {14}{25}}}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{15}{26/29}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {26}{29}}}
+\HyPL@Entry{29<</P(16)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{16}{30/31}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {30}{31}}}
+\HyPL@Entry{31<</P(17)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{17}{32/33}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {32}{33}}}
+\HyPL@Entry{33<</P(18)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{18}{34/39}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {34}{39}}}
+\HyPL@Entry{39<</P(19)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{19}{40/41}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {40}{41}}}
+\HyPL@Entry{41<</P(20)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{20}{42/45}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {42}{45}}}
+\HyPL@Entry{45<</P(21)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{21}{46/47}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {46}{47}}}
+\HyPL@Entry{47<</P(22)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{22}{48/49}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {48}{49}}}
+\citation{Microsoft2011}
+\HyPL@Entry{49<</P(23)>>}
+\@writefile{nav}{\headcommand {\slideentry {4}{0}{23}{50/50}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {50}{50}}}
+\HyPL@Entry{50<</P(24)>>}
+\@writefile{toc}{\beamer@sectionintoc {5}{M\IeC {\'e}canismes de migrations}{51}{0}{5}}
+\@writefile{nav}{\headcommand {\sectionentry {5}{M\IeC {\'e}canismes}{51}{M\IeC {\'e}canismes de migrations}{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {26}{50}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {26}{50}}}
+\@writefile{nav}{\headcommand {\slideentry {5}{0}{24}{51/54}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {51}{54}}}
+\HyPL@Entry{54<</P(25)>>}
+\@writefile{nav}{\headcommand {\slideentry {5}{0}{25}{55/57}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {55}{57}}}
+\HyPL@Entry{57<</P(26)>>}
+\@writefile{toc}{\beamer@sectionintoc {6}{Impl\IeC {\'e}mentation}{58}{0}{6}}
+\@writefile{nav}{\headcommand {\sectionentry {6}{Impl\IeC {\'e}mentation}{58}{Impl\IeC {\'e}mentation}{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {51}{57}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {51}{57}}}
+\@writefile{nav}{\headcommand {\slideentry {6}{0}{26}{58/58}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {58}{58}}}
+\HyPL@Entry{58<</P(27)>>}
+\@writefile{nav}{\headcommand {\slideentry {6}{0}{27}{59/59}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {59}{59}}}
+\HyPL@Entry{59<</P(28)>>}
+\@writefile{toc}{\beamer@sectionintoc {7}{Conclusions et perspectives}{60}{0}{7}}
+\@writefile{nav}{\headcommand {\sectionentry {7}{Conclusions}{60}{Conclusions et perspectives}{0}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {58}{59}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {58}{59}}}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{28}{60/61}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {60}{61}}}
+\HyPL@Entry{61<</P(29)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{29}{62/63}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {62}{63}}}
+\HyPL@Entry{63<</P(30)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{30}{64/64}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {64}{64}}}
+\bibstyle{plainnat}
+\bibdata{../bib/biblio}
+\bibcite{Besacier2010}{\hyperlink {beamerbibBesacier2010}{Bes10}}
+\bibcite{Calvary2002}{\hyperlink {beamerbibCalvary2002}{CCB{$^{+}$}02}}
+\bibcite{Kassoff2003}{\hyperlink {beamerbibKassoff2003}{KKM03}}
+\bibcite{Microsoft2011}{\hyperlink {beamerbibMicrosoft2011}{Mic11}}
+\bibcite{MitsubishiElectricResearchLaboratoriesb}{\hyperlink {beamerbibMitsubishiElectricResearchLaboratoriesb}{Mit}}
+\bibcite{Moore1997}{\hyperlink {beamerbibMoore1997}{MR97}}
+\bibcite{Paterno'2009}{\hyperlink {beamerbibPaterno'2009}{PSS09}}
+\bibcite{TanenbaumS.1978}{\hyperlink {beamerbibTanenbaumS.1978}{TKB78}}
+\bibcite{Ullmer1997}{\hyperlink {beamerbibUllmer1997}{UI97}}
+\bibcite{Vanderdonckt1997}{\hyperlink {beamerbibVanderdonckt1997}{Van97}}
+\bibcite{Wang2008}{\hyperlink {beamerbibWang2008}{WGM08}}
+\HyPL@Entry{64<</P(31)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{31}{65/65}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {65}{65}}}
+\HyPL@Entry{65<</P(32)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{31}{65/66}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {65}{66}}}
+\HyPL@Entry{66<</P(33)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{32}{67/67}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {67}{67}}}
+\HyPL@Entry{67<</P(34)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{33}{68/68}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {68}{68}}}
+\HyPL@Entry{68<</P(35)>>}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{34}{69/69}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {69}{69}}}
+\HyPL@Entry{69<</P(36)>>}
+\newlabel{fig:guidelinesmod\IeC {\`e}les}{{5}{70}{Conclusions\relax }{Doc-Start}{}}
+\@writefile{snm}{\beamer@slide {fig:guidelinesmod\IeC {\`e}les}{70}}
+\@writefile{nav}{\headcommand {\slideentry {7}{0}{35}{70/70}{}{0}}}
+\@writefile{nav}{\headcommand {\beamer@framepages {70}{70}}}
+\@writefile{nav}{\headcommand {\beamer@partpages {1}{70}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {60}{70}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {60}{70}}}
+\@writefile{nav}{\headcommand {\beamer@documentpages {70}}}
+\@writefile{nav}{\headcommand {\def \inserttotalframenumber {36}}}

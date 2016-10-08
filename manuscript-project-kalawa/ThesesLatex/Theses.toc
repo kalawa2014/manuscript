@@ -1,0 +1,34 @@
+\contentsline {chapter}{\numberline {1}Mod\'elisation des interactions abstraites }{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Primitives d'interactions}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Les primitives d'interactions en entr\'ee}{2}{subsection.1.2.1}
+\contentsline {subsubsection}{R\'esum\'e}{5}{section*.1}
+\contentsline {subsection}{\numberline {1.2.2}Les primitives d'interactions en sortie}{5}{subsection.1.2.2}
+\contentsline {subsubsection}{R\'esum\'e}{6}{section*.4}
+\contentsline {section}{\numberline {1.3}Composants graphiques}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Un mod\`ele abstrait de composants graphiques}{7}{subsection.1.3.1}
+\contentsline {paragraph}{Widget}{7}{section*.10}
+\contentsline {paragraph}{Behaviour}{8}{section*.11}
+\contentsline {paragraph}{Property}{9}{section*.12}
+\contentsline {subsubsection}{Identification des primitives d'interactions intrins\`eques}{10}{section*.13}
+\contentsline {subsection}{\numberline {1.3.2}Un mod\`ele de structure d'UI}{12}{subsection.1.3.2}
+\contentsline {subsubsection}{Types de Container}{13}{section*.15}
+\contentsline {paragraph}{Container Racine}{14}{section*.17}
+\contentsline {paragraph}{Container R\'ecursif}{14}{section*.18}
+\contentsline {paragraph}{Container Homog\`ene}{14}{section*.19}
+\contentsline {paragraph}{Container H\'et\'erog\`ene}{14}{section*.20}
+\contentsline {subsubsection}{Donn\'ees des interacteurs}{15}{section*.22}
+\contentsline {subsubsection}{Primitives d'interactions effectives}{15}{section*.23}
+\contentsline {subsection}{\numberline {1.3.3}Synth\`ese des mod\`eles abstraits}{17}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Op\'erateurs d'\'equivalences }{17}{section.1.4}
+\contentsline {paragraph}{\'Egalit\'e des deux sous ensemble de primitives d'interactions\\}{17}{section*.24}
+\contentsline {paragraph}{Inclusion des primitives d'interactions\\}{17}{section*.25}
+\contentsline {paragraph}{Contenance des primitives d'interactions\\}{18}{section*.26}
+\contentsline {subsection}{\numberline {1.4.1}\'Equivalences des interacteurs}{18}{subsection.1.4.1}
+\contentsline {subsubsection}{Les op\'erateurs de comparaison}{18}{section*.27}
+\contentsline {subsubsection}{\'Equivalence stricte }{19}{section*.28}
+\contentsline {subsubsection}{Equivalence large}{19}{section*.29}
+\contentsline {subsubsection}{\'Equivalence simple}{19}{section*.30}
+\contentsline {subsubsection}{\'Equivalence faible}{20}{section*.31}
+\contentsline {subsection}{\numberline {1.4.2}Correspondances entre interacteurs et composants graphiques}{20}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Synth\`ese}{20}{section.1.5}

@@ -1,0 +1,35 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Introduction}{\reset@font\mtcSfont 29}{section.2.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Approches sp\'ecifiques de migration d'UI }{\reset@font\mtcSfont 30}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.1}Migration de l'application AgilePlanner vers une table interactive}{\reset@font\mtcSSfont 30}{subsection.2.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.1.1}R\'eutilisation du processus pour d'autres applications}{\reset@font\mtcSSSfont 31}{subsubsection.2.2.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.1.2}R\'esum\'e}{\reset@font\mtcSSSfont 31}{subsubsection.2.2.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.2}Portage des applications existantes sur des tables interactives }{\reset@font\mtcSSfont 32}{subsection.2.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode La capture d'\'ecran }{\reset@font\mtcPfont 32}{section*.31}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode La carte graphique virtuelle}{\reset@font\mtcPfont 32}{section*.32}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode L'\'emulation du clavier et de la souris}{\reset@font\mtcPfont 33}{section*.33}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Le langage de script }{\reset@font\mtcPfont 33}{section*.34}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Les API d'accessibilit\'e num\'erique}{\reset@font\mtcPfont 33}{section*.35}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode La r\'e\'ecriture d'une boite \`a outils d'interface homme machine}{\reset@font\mtcPfont 33}{section*.36}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.2.1}R\'esum\'e}{\reset@font\mtcSSSfont 34}{subsubsection.2.2.2.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Approches de migration bas\'ees sur les mod\`eles de l'UI }{\reset@font\mtcSfont 35}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.1}Migration avec MORPH}{\reset@font\mtcSSfont 35}{subsection.2.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.1.1}Processus de migration}{\reset@font\mtcSSSfont 35}{subsubsection.2.3.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.1.2}Les mod\`eles abstraits d'UI}{\reset@font\mtcSSSfont 36}{subsubsection.2.3.1.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Extraction des mod\`eles abstraits\\}{\reset@font\mtcPfont 36}{section*.39}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode M\'ecanismes de transformations et de g\'en\'eration de l'UI\\ }{\reset@font\mtcPfont 37}{section*.40}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.1.3}Comment adapter MORPH pour la migration d'UI vers les tables interactives?}{\reset@font\mtcSSSfont 37}{subsubsection.2.3.1.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.1.4}R\'esum\'e}{\reset@font\mtcSSSfont 38}{subsubsection.2.3.1.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.2}Approches de migration automatiques d'UI}{\reset@font\mtcSSfont 38}{subsection.2.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.2.1}Mod\`eles d'UI}{\reset@font\mtcSSSfont 39}{subsubsection.2.3.2.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Mod\`ele de t\^aches et concepts}{\reset@font\mtcPfont 39}{section*.42}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Mod\`ele AUI}{\reset@font\mtcPfont 39}{section*.43}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Mod\`ele CUI}{\reset@font\mtcPfont 40}{section*.44}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.2.2}M\'ecanismes de migration d'UI top down}{\reset@font\mtcSSSfont 40}{subsubsection.2.3.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.2.3}M\'ecanismes de migration d'UI bottom up}{\reset@font\mtcSSSfont 41}{subsubsection.2.3.2.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.2.4}Service de migration d'UI desktop vers les tables interactives}{\reset@font\mtcSSSfont 41}{subsubsection.2.3.2.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.2.5}R\'esum\'e}{\reset@font\mtcSSSfont 42}{subsubsection.2.3.2.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.4}Synth\`ese et objectifs}{\reset@font\mtcSfont 43}{section.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.1}Synth\`ese}{\reset@font\mtcSSfont 43}{subsection.2.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.4.1.1}Les points forts des approches pr\'esent\'ees}{\reset@font\mtcSSSfont 44}{subsubsection.2.4.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.4.1.2}Les limites}{\reset@font\mtcSSSfont 44}{subsubsection.2.4.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.2}Objectifs}{\reset@font\mtcSSfont 45}{subsection.2.4.2}}

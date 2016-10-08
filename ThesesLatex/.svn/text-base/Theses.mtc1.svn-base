@@ -1,0 +1,33 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.1}Introduction}{\reset@font\mtcSfont 1}{section.1.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.2}Primitives d'interactions}{\reset@font\mtcSfont 2}{section.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.1}Les primitives d'interactions en entr\'ee}{\reset@font\mtcSSfont 2}{subsection.1.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode R\'esum\'e}{\reset@font\mtcSSSfont 5}{section*.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.2}Les primitives d'interactions en sortie}{\reset@font\mtcSSfont 5}{subsection.1.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode R\'esum\'e}{\reset@font\mtcSSSfont 6}{section*.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.3}Composants graphiques}{\reset@font\mtcSfont 6}{section.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.1}Un mod\`ele abstrait de composants graphiques}{\reset@font\mtcSSfont 7}{subsection.1.3.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Widget}{\reset@font\mtcPfont 7}{section*.10}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Behaviour}{\reset@font\mtcPfont 8}{section*.11}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Property}{\reset@font\mtcPfont 9}{section*.12}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Identification des primitives d'interactions intrins\`eques}{\reset@font\mtcSSSfont 10}{section*.13}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.2}Un mod\`ele de structure d'UI}{\reset@font\mtcSSfont 12}{subsection.1.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Types de Container}{\reset@font\mtcSSSfont 13}{section*.15}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Container Racine}{\reset@font\mtcPfont 14}{section*.17}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Container R\'ecursif}{\reset@font\mtcPfont 14}{section*.18}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Container Homog\`ene}{\reset@font\mtcPfont 14}{section*.19}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Container H\'et\'erog\`ene}{\reset@font\mtcPfont 14}{section*.20}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Donn\'ees des interacteurs}{\reset@font\mtcSSSfont 15}{section*.22}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Primitives d'interactions effectives}{\reset@font\mtcSSSfont 15}{section*.23}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3.3}Synth\`ese des mod\`eles abstraits}{\reset@font\mtcSSfont 17}{subsection.1.3.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.4}Op\'erateurs d'\'equivalences }{\reset@font\mtcSfont 17}{section.1.4}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \'Egalit\'e des deux sous ensemble de primitives d'interactions\\}{\reset@font\mtcPfont 17}{section*.24}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Inclusion des primitives d'interactions\\}{\reset@font\mtcPfont 17}{section*.25}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Contenance des primitives d'interactions\\}{\reset@font\mtcPfont 18}{section*.26}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.4.1}\'Equivalences des interacteurs}{\reset@font\mtcSSfont 18}{subsection.1.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Les op\'erateurs de comparaison}{\reset@font\mtcSSSfont 18}{section*.27}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \'Equivalence stricte }{\reset@font\mtcSSSfont 19}{section*.28}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Equivalence large}{\reset@font\mtcSSSfont 19}{section*.29}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \'Equivalence simple}{\reset@font\mtcSSSfont 19}{section*.30}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \'Equivalence faible}{\reset@font\mtcSSSfont 20}{section*.31}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.4.2}Correspondances entre interacteurs et composants graphiques}{\reset@font\mtcSSfont 20}{subsection.1.4.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.5}Synth\`ese}{\reset@font\mtcSfont 20}{section.1.5}}

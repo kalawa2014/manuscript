@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: presentation.aux
+The style file: alpha.bst
+Illegal, another \bibstyle command---line 178 of file presentation.aux
+ : \bibstyle
+ :          {plainnat}
+I'm skipping whatever remains of this command
+Database file #1: ../bib/biblio.bib
+Warning--empty institution in Calvary2002
+Warning--empty institution in Microsoft2011
+Warning--empty journal in Moore1997
+Warning--empty journal in Vanderdonckt1997
+(There was 1 error message)

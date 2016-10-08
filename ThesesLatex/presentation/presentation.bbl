@@ -1,0 +1,67 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{CCB{\etalchar{+}}02}
+
+\bibitem[Bes10]{Besacier2010}
+Guillaume Besacier.
+\newblock {\em {Interactions post-WIMP et applications existantes sur une table
+  interactive}}.
+\newblock PhD thesis, UNIVERSIT\'{E} PARIS-SUD 11, 2010.
+
+\bibitem[CCB{\etalchar{+}}02]{Calvary2002}
+Ga\"{e}lle Calvary, Jo\"{e}lle Coutaz, Laurent Bouillon, Murielle Florins,
+  Quentin Limbourg, L.~Marucci, Fabio Patern\`{o}, Carmen Santoro, N.~Souchon,
+  David Thevenin, and Jean Vanderdonckt.
+\newblock {CAMELEON Project}.
+\newblock Technical report, 2002.
+
+\bibitem[KKM03]{Kassoff2003}
+M.~Kassoff, D.~Kato, and W.~Mohsin.
+\newblock {Creating GUIs for web services}.
+\newblock {\em IEEE Internet Computing}, 7(5):66--73, September 2003.
+
+\bibitem[Mic11]{Microsoft2011}
+Microsoft.
+\newblock {Microsoft Surface 2 Design and Interaction Guide}.
+\newblock Technical Report July, 2011.
+
+\bibitem[{Mit}]{MitsubishiElectricResearchLaboratoriesb}
+{Mitsubishi Electric Research Laboratoriesb}.
+\newblock {MERL }.
+
+\bibitem[MR97]{Moore1997}
+Melody Moore and Spencer Rugaber.
+\newblock {Using Knowledge Representation to Understand Interactive Systems}.
+\newblock pages 60--67, May 1997.
+
+\bibitem[PSS09]{Paterno'2009}
+Fabio Patern\`{o}, Carmen Santoro, and Lucio~Davide Spano.
+\newblock {MARIA: A Universal, Declarative, Multiple Abstraction-Level Language
+  for Service-Oriented Applications in Ubiquitous Environments}.
+\newblock {\em ACM Transactions on Computer-Human Interaction}, 16(4):1--30,
+  November 2009.
+
+\bibitem[TKB78]{TanenbaumS.1978}
+Andrew {Tanenbaum S.}, Paul Klint, and Wim Bohm.
+\newblock {Guidelines for Software Portability}.
+\newblock {\em Software-Practice And Experience}, 8(6):681--698, November 1978.
+
+\bibitem[UI97]{Ullmer1997}
+Brygg Ullmer and Hiroshi Ishii.
+\newblock {The metaDESK : Models and Prototypes for Tangible User Interfaces}.
+\newblock In {\em UIST '97 Proceedings of the 10th annual ACM symposium on User
+  interface software and technolog}, pages 223 -- 232, 1997.
+
+\bibitem[Van97]{Vanderdonckt1997}
+Jean Vanderdonckt.
+\newblock {Conception assist\'{e}e de la pr\'{e}sentation d'une interface
+  homme-machine ergonomique pour une application de gestion hautement
+  interactive}.
+\newblock 1997.
+
+\bibitem[WGM08]{Wang2008}
+Xin Wang, Yaser Ghanam, and Frank Maurer.
+\newblock {From Desktop to Tabletop : Migrating the User Interface of
+  AgilePlanner}.
+\newblock In {\em Engineering Interactive Systems 2008}, pages 263--270, 2008.
+
+\end{thebibliography}
